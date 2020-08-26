@@ -5,12 +5,12 @@ I'm a research computational biologist at [Enveda Therapeutics](https://envedath
 🧰 My Projects 🧰
 
 - 🧬 [Biological Expression Language (BEL)](https://biological-expression-language.github.io/): a domain specific language for representing molecular biology
-- 🌶️ [PyBEL](https://github.com/pybel): the computational ecosystem for compiling, querying, and analyzing knowledge graphs envoded in BEL
+- 🌶️ [PyBEL](https://github.com/pybel): the computational ecosystem for compiling, querying, and analyzing knowledge graphs encoded in BEL
 - 🤖 [PyKEEN](https://github.com/pykeen): knowledge graph embedding models for humans 
 
 📫 My Interblag 📫
 
-Besides my email and Twitter (on the left), I'm also in the internet in the following places:
+Besides my email, blog, and Twitter (on the left), I'm also in the internet in the following places:
 
 - [ORCID](https://orcid.org/0000-0003-4423-4370) 
 - [Wikidata](https://www.wikidata.org/wiki/Q47475003)
