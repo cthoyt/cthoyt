@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+🧰 My Projects 🧰
+
+- 🧬 [Biological Expression Language (BEL)](https://biological-expression-language.github.io/): a domain specific language for representing molecular biology
+- 🌶️ [PyBEL](https://github.com/pybel): the computational ecosystem for compiling, querying, and analyzing knowledge graphs envoded in BEL
+- 🤖 [PyKEEN](https://github.com/pykeen): knowledge graph embedding models for humans
+
 <!--
 **cthoyt/cthoyt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
