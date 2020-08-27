@@ -8,6 +8,12 @@ I'm a research computational biologist at [Enveda Therapeutics](https://envedath
 - 🌶️ [PyBEL](https://github.com/pybel): the computational ecosystem for compiling, querying, and analyzing knowledge graphs encoded in BEL
 - 🤖 [PyKEEN](https://github.com/pykeen): knowledge graph embedding models for humans 
 
+⚖️ My Core Scientific Values ⚖️
+
+- ♻️ Reproducibility: code is part of the scientific process. It should be documented and re-usable by anyone.
+- 🔓 Openness: science is best when people can build on each others' work. Sharing data, code, and ideas has benefitted everyone, and is also the responsiblity of a scientist to pay forward.
+- 🎯 Thoroughness: quality is dependent on taking great care throughout all steps
+
 📫 My Interblag 📫
 
 Besides my email, blog, and Twitter (on the left), I'm also in the internet in the following places:
