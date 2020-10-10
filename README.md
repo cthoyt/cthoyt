@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a research computational biologist at [Enveda Therapeutics](https://envedatherapeutics.com/) and I work with biological knowledge graphs, machine learning, and artificial intelligence to identify active molecules and to deconvolute their mechanisms of action.
+I work with biological knowledge graphs, machine learning, and artificial intelligence to identify active molecules and to deconvolute their mechanisms of action.
 
 🧰 My Projects 🧰
 
