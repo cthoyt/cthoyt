@@ -4,6 +4,7 @@ I work with biological knowledge graphs, machine learning, and artificial intell
 
 🧰 My Projects
 
+- 📮 [Bioregistry](https://github.com/biopragmatics/bioregistry): an integrative registry of biological databases, ontologies, and nomenclatures.
 - 🧬 [Biological Expression Language (BEL)](https://biological-expression-language.github.io/): a domain specific language for representing molecular biology
 - 🌶️ [PyBEL](https://github.com/pybel): the computational ecosystem for compiling, querying, and analyzing knowledge graphs encoded in BEL
 - 📛 [PyOBO](https://github.com/pyobo): making ontologies and semantics accessible
