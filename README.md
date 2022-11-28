@@ -24,7 +24,7 @@ Besides my email, blog, and Twitter (on the left), I'm also in the internet in t
 - [Wikidata](https://www.wikidata.org/wiki/Q47475003)
 - [Google Scholar](https://scholar.google.com/citations?user=PjrpzUIAAAAJ)
 - [DBLP](https://dblp.org/pid/199/2168)
-- <a rel="me" href="https://scholar.social/@cthoyt" title="cthoyt">@cthoyt@scholar.social</a>
+- <a rel="me" href="https://scholar.social/@cthoyt" title="cthoyt">https://scholar.social/@cthoyt</a>
 
 <!--
 **cthoyt/cthoyt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
